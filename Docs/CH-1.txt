@@ -1,0 +1,72 @@
+WebDevelopment FrontEnd
+Languages to Learn
+	- HTML
+	- CSS
+	- JavaScript
+	
+Followed By
+	- Bootstrap
+	- JQuery
+	- AngularJS
+
+<<<<<<<<<<<< BOOTSTRAP >>>>>>>>>>>>
+
+Who should learn bootstrap?
+	A developer who intends to do either
+		- create websites
+		- create website templates
+		- create web components
+		
+Is BootStrap only CSS framework?
+	No it does contain JS Widgets too
+		tabs, carousels, accordion menus etc.
+
+I am a web developer who knows HTML CSS AND JS
+Why should one use Bootstrap?
+1.  Saves developers time.
+2.  Provides Responsive Layouts.
+3.  Easy to Use.
+4.  Predefined web components with code available.
+5.  Compatibility with all browsers & Mobile.
+6.  Open Source and Free to use.
+
+
+<<<<<<<<<<<< Machine Setup >>>>>>>>>
+1.  Download http://getbootstrap.com/getting-started/#download
+2.  Install Notepad++
+
+EX: List down key WebComponents that you have ever seen on any websites!
+
+
+
+directoryStructure
+	bootstrap
+		/css
+		/js
+		/fonts
+		
+Popular Components [HTML+CSS]
+	Glyphicons
+	DropDowns
+	Button Groups
+	NavBar
+	BreadCrumbs
+	Alerts
+	Panels
+	Jumbotron
+	Labels
+	Progress Bars
+	Badges
+	Pagination
+	Input Groups
+	
+Javascript Widgets 
+	Tabs
+	Accordion
+	Alert
+	Popover and Tooltip
+	Carousel
+	Modal
+	Collapse
+	Dropdown
+	

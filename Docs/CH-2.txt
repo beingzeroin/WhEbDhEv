@@ -1,0 +1,4 @@
+Create Starter Template
+by copy pasting from Starter Template of
+http://getbootstrap.com/getting-started/#examples
+

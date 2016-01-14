@@ -22,7 +22,7 @@ NAVBARS
 	
 	BOOTSTRAP
 	=========
-	<nav tag classes>
+	1.  <nav tag classes>
 	
 		navbar 
 			navbar-default
@@ -31,7 +31,14 @@ NAVBARS
 			navbar-fixed-top
 			navbar-fixed-bottom
 			
-	<ul tag classes>
-		nav
-			navbar-nav
-		
+	2.  <ul tag classes>
+			nav
+				navbar-nav
+	
+	3.  NavBar Header and NavBar brand classes
+			<div class="navbar-header">
+				<a class="navbar-brand">Company Name</a>
+			</div>
+	
+	4.  <li tag classes>
+			active

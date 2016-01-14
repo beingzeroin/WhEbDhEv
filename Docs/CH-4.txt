@@ -19,3 +19,19 @@ NAVBARS
 			<li><a href=''>Item1</a></li>
 		</ul>
 	</nav>
+	
+	BOOTSTRAP
+	=========
+	<nav tag classes>
+	
+		navbar 
+			navbar-default
+			navbar-inverse
+			
+			navbar-fixed-top
+			navbar-fixed-bottom
+			
+	<ul tag classes>
+		nav
+			navbar-nav
+		

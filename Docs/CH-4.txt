@@ -34,6 +34,8 @@ NAVBARS
 	2.  <ul tag classes>
 			nav
 				navbar-nav
+				
+				navbar-right
 	
 	3.  NavBar Header and NavBar brand classes
 			<div class="navbar-header">

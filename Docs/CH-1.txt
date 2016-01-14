@@ -34,6 +34,7 @@ Why should one use Bootstrap?
 <<<<<<<<<<<< Machine Setup >>>>>>>>>
 1.  Download http://getbootstrap.com/getting-started/#download
 2.  Install Notepad++
+3.  Install Brackets [Adobe]
 
 EX: List down key WebComponents that you have ever seen on any websites!
 

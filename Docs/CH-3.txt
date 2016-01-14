@@ -1,0 +1,24 @@
+Learn to Create Page Layout
+	NavBar
+	Bootstrap Grid System
+	
+END GOAL
+	1. Create Landing Page [SPA]
+	2. NavBar to go to various page sections.
+		Home | About | Contact
+	3. Responsiveness for Dektop, Mobile
+	
+Assets:
+http://www.istockphoto.com/
+
+NavBar
+http://www.w3schools.com/tags/tag_nav.asp
+http://getbootstrap.com/components/#navbar
+http://www.w3schools.com/bootstrap/bootstrap_navbar.asp
+http://getbootstrap.com/css/#responsive-utilities
+https://gpowerhost.com/test-bootstrap-13-navbars
+
+EX-1:  Create a Simple NavBar (Home|About|Contact)
+Ex-2:  Apply Styles to Fix It on Top
+Ex-3:  Add Branding Icon to NavBar
+EX-4:  Create Apple.com like NavBar

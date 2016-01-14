@@ -1,0 +1,21 @@
+NAVBARS
+	- html tag (NAV)
+	- Inside it, include anchor tags
+	
+	HTML - FIRST WAY
+	=================
+	<nav>
+		<a href=''>Item1</a>
+		<a href=''>Item2</a>
+		<a href=''>Item3</a>
+	</nav>
+	
+	HTML - SECOND WAY
+	=================	
+	<nav>
+		<ul>
+			<li><a href=''>Item1</a></li>
+			<li><a href=''>Item1</a></li>
+			<li><a href=''>Item1</a></li>
+		</ul>
+	</nav>
